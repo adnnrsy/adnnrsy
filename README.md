@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hai, aku Adnan!
 
-<!--
-**adnnrsy/adnnrsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Masih SMA, tapi udah tertarik robotik 🤖  
+Lagi belajar ngoding pake **C & C++**, mainin **Arduino**, dan ngulik elektronik ⚡  
+Ngoding sambil ngopi itu udah paket ☕  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Lagi dipelajari:
+- Dasar elektronika  
+- Arduino & sensor  
+- Ngoding mikrokontroler  
+
+---
+
+📫 IG: [@usernamekamu](https://instagram.com/adnnrsy)  
+📬 Email: adnanysy.88@gmail.com
