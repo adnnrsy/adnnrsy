@@ -13,5 +13,5 @@ Ngoding sambil ngopi itu udah paket ☕
 
 ---
 
-📫 IG: [@usernamekamu](https://instagram.com/adnnrsy)  
+📫 IG: [@adnnrsy](https://instagram.com/adnnrsy)  
 📬 Email: adnanysy.88@gmail.com
